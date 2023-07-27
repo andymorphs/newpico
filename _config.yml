@@ -1,13 +1,12 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
+title:        AndyMorphs
+tagline:      I make videos
+baseurl:      "https://link.andymorphs.com"
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
+  name:       Andy Morphs
   url:        http://yourhomepage.com 
 
 # Gems
