@@ -9,6 +9,8 @@ author:
   name:       Andy Morphs
   url:        http://yourhomepage.com 
 
+theme: jekyll-theme-cayman
+
 # Gems
 gems:
   - jekyll-paginate
